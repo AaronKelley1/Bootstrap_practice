@@ -1,0 +1,67 @@
+.heading {
+  text-align: center;
+}
+
+.charlie {
+  border: 5px dotted red;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+li {
+  font-style: italic;
+  text-align: left;
+}
+
+.sweetie {
+  border: 5px dotted blue;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.lucy {
+  border: 5px dotted green;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.andrew {
+  border: 5px dotted orange;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.goldie {
+  border: 5px dotted yellow;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: blue;
+    }
+  }
+
+  @media screen and (min-width: 480px) and (max-width: 700px) {
+    body {
+      background-color: yellow;
+      }
+    }ß
